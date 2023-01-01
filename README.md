@@ -58,7 +58,5 @@ I am Part Time Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- <a href="https://media.tenor.com/ZX95mDnlodwAAAAd/the-rock-sus-eye.gif">
-  Nothing to see here yet :eyes:
-</a>
+- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
